@@ -56,7 +56,6 @@
     "@types/use-sync-external-store": "^0.0.0",
     "hoist-non-react-statics": "^3.3.2",
     "loose-envify": "^1.4.0",
-    "prop-types": "^15.7.2",
     "react-is": "^16.13.1",
     "use-sync-external-store": "0.0.0-experimental-7d38e4fd8-20210930"
   },
